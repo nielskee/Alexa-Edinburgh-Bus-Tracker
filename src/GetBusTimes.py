@@ -17,7 +17,7 @@ class Buses:
     url_data["key"] = API_KEY_MD5
     url_data["function"] = "getBusTimes"
     url_data["nb"] = 3
-    url_data["stopId1"] = 36235962
+    url_data["stopId1"] = ADDYOURSTOPIDHERE
 
     def get_bus_times(self, intent):
         url_values = urlencode(self.url_data)
