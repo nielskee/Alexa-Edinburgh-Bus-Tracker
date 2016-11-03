@@ -1,0 +1,5 @@
+GetBusTimes get the bus times
+GetBusTimes when's the next bus
+GetBusTimes when is the next bus
+GetBusTimes tell me when the next bus is
+GetBusTimes bus times
